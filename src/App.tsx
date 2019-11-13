@@ -8,11 +8,13 @@ import {BrowserRouter} from 'react-router-dom';
 
 const App: React.FC = () => {
     return (
-        <div>
+        <div className="container p-3 relative h-full ml-10 mr-10">
             <AppContext>
                 <AppHeader />
                 <BrowserRouter>
+                    <div className="w-full">
                     <Routes />
+                    </div>
                 </BrowserRouter>
                 <AppFooter />
             </AppContext>
