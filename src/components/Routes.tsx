@@ -1,6 +1,9 @@
 import React from 'react';
-import {Route, RouteProps, Redirect, Switch} from 'react-router-dom';
+import {Route, RouteProps, Redirect} from 'react-router-dom';
 import {IUser} from '../types/index';
+import AuthContext from '../context/AuthContext';
+import About from './About';
+import Home from './Home';
 
 interface IProtectedRoute extends RouteProps {
     authenticated: null | IUser;
@@ -31,9 +34,12 @@ class AuthRoute extends Route<IProtectedRoute> {
 }
 
 const Routes: React.FC = () => {
+    const {user} = React.useContext(AuthContext);
+
     return (
         <React.Fragment>
-            <Route path='/' render={() => <div>Home</div>} />
+            <AuthRoute path="/" authenticated={user} redirectPath="/home" component={About} />
+            <ProtectedRoute path="/home" authenticated={user} redirectPath="/" component={Home} />
         </React.Fragment>
     );
 };
