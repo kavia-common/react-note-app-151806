@@ -1,5 +1,5 @@
 import React from 'react';
-import { IUser } from '../types/index';
+import {IUser} from '../types/index';
 
 interface IAuthContext {
     user: null | IUser;
@@ -9,17 +9,21 @@ interface IAuthContext {
 
 const AuthContext = React.createContext<IAuthContext>({
     user: null,
-    setUser: () => { return; },
-    logoutUser: () => { return; }
+    setUser: () => {
+        return;
+    },
+    logoutUser: () => {
+        return;
+    },
 });
 
 export const useAuthState = () => {
-    const [ user, setUser ] = React.useState<IUser | null>(null);
+    const [user, setUser] = React.useState<IUser | null>(null);
 
     const setCurrentUser = (u: IUser) => setUser(u);
     const logoutUser = () => setUser(null);
 
-    return { user, setUser: setCurrentUser, logoutUser };
+    return {user, setUser: setCurrentUser, logoutUser};
 };
 
 export const AuthProvider = AuthContext.Provider;

@@ -4,20 +4,17 @@ import AppContext from './context/AppContext';
 import AppHeader from './components/AppHeader';
 import AppFooter from './components/AppFooter';
 import Routes from './components/Routes';
-import {BrowserRouter} from 'react-router-dom';
 
 const App: React.FC = () => {
     return (
         <div className="container p-3 relative h-full ml-10 mr-10">
-            <AppContext>
-                <AppHeader />
-                <BrowserRouter>
+                <AppContext>
+                    <AppHeader />
                     <div className="w-full">
-                    <Routes />
+                        <Routes />
                     </div>
-                </BrowserRouter>
-                <AppFooter />
-            </AppContext>
+                    <AppFooter />
+                </AppContext>
         </div>
     );
 };
