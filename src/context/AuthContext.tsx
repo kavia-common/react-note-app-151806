@@ -1,7 +1,7 @@
 import React from 'react';
 import {IUser} from '../types/index';
 
-interface IAuthContext {
+export interface IAuthContext {
     user: null | IUser;
     setUser: (user: IUser) => void;
     logoutUser: () => void;

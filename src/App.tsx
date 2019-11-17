@@ -7,10 +7,10 @@ import Routes from './components/Routes';
 
 const App: React.FC = () => {
     return (
-        <div className="container p-3 relative h-full ml-10 mr-10">
+        <div className="container p-3 h-full m-auto">
                 <AppContext>
                     <AppHeader />
-                    <div className="w-full">
+                    <div className="w-full mt-20">
                         <Routes />
                     </div>
                     <AppFooter />
