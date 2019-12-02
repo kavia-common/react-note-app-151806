@@ -10,10 +10,23 @@ export const MOCK_USER: IUser = {
 
 export const MOCK_AUTH_CONTEXT_VALUE: IAuthContext = {
     user: MOCK_USER,
-    logoutUser: () => {
-        return;
-    },
     setUser: () => {
         return;
     },
+    logoutUser: () => {
+        return;
+    },
+    login: () => {
+        return;
+    },
+    register: () => {
+        return;
+    },
+    getCurrentUser: () => {
+        return;
+    },
+    loading: false,
+    success: false,
+    error: false,
+    message: '',
 };

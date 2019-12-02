@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {Route, RouteProps, Redirect} from 'react-router-dom';
 import {IUser} from '../types/index';
 import AuthContext from '../context/AuthContext';
@@ -34,8 +34,8 @@ class AuthRoute extends Route<IProtectedRoute> {
 }
 
 const Routes: React.FC = () => {
-    const {user} = React.useContext(AuthContext);
-
+    const {user, getCurrentUser} = React.useContext(AuthContext);
+    useEffect(() => { getCurrentUser(); });
     return (
         <React.Fragment>
             <AuthRoute path="/" authenticated={user} redirectPath="/home" component={About} />
