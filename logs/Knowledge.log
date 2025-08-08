@@ -1,0 +1,468 @@
+2025-08-08 08:27:15,665 - Knowledge - INFO - Redis support added with prefix knowledge:b1369mi:
+2025-08-08 08:27:15,905 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-08 08:27:16,032 - Knowledge - INFO - load persisted knowledge: end
+2025-08-08 08:27:16,161 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-08 08:27:16,289 - Knowledge - INFO - load persisted docinfo: end
+2025-08-08 08:27:16,395 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-08 08:27:16,481 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-08 08:27:16,483 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-08-08 08:27:16,578 - Knowledge - INFO - worker kw1 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts from ingest queue
+2025-08-08 08:27:16,709 - Knowledge - INFO - knowledge worker kw2 start
+2025-08-08 08:27:16,710 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-08-08 08:27:16,825 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts
+2025-08-08 08:27:16,876 - Knowledge - INFO - worker kw2 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts from ingest queue
+2025-08-08 08:27:16,991 - Knowledge - INFO - knowledge worker kw3 start
+2025-08-08 08:27:16,993 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-08-08 08:27:17,082 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:17,209 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts
+2025-08-08 08:27:17,270 - Knowledge - INFO - worker kw3 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx from ingest queue
+2025-08-08 08:27:17,369 - Knowledge - INFO - knowledge worker kw4 start
+2025-08-08 08:27:17,371 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-08-08 08:27:17,461 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:17,577 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:17,719 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx
+2025-08-08 08:27:17,812 - Knowledge - INFO - worker kw4 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx from ingest queue
+2025-08-08 08:27:17,894 - Knowledge - INFO - knowledge worker kw5 start
+2025-08-08 08:27:17,896 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-08-08 08:27:17,978 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts
+2025-08-08 08:27:18,098 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:18,183 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:18,298 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx
+2025-08-08 08:27:18,361 - Knowledge - INFO - worker kw5 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx from ingest queue
+2025-08-08 08:27:18,478 - Knowledge - INFO - knowledge worker kw6 start
+2025-08-08 08:27:18,480 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-08-08 08:27:18,622 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts to ingest queue
+2025-08-08 08:27:19,315 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:18,776 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:19,511 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx
+2025-08-08 08:27:19,215 - Knowledge - INFO - knowledge worker kw7 start
+2025-08-08 08:27:19,217 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-08-08 08:27:18,659 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts
+2025-08-08 08:27:19,315 - Knowledge - INFO - worker kw6 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx from ingest queue
+2025-08-08 08:27:19,316 - Knowledge - INFO - worker kw1 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx from ingest queue
+2025-08-08 08:27:19,421 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:20,169 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx
+2025-08-08 08:27:19,667 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx to ingest queue
+2025-08-08 08:27:19,799 - Knowledge - INFO - knowledge worker kw8 start
+2025-08-08 08:27:19,800 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-08-08 08:27:20,024 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx
+2025-08-08 08:27:20,102 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx
+2025-08-08 08:27:19,021 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx
+2025-08-08 08:27:20,328 - Knowledge - INFO - worker kw7 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx from ingest queue
+2025-08-08 08:27:20,436 - Knowledge - INFO - worker kw3 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx from ingest queue
+2025-08-08 08:27:20,436 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts to ingest queue
+2025-08-08 08:27:20,528 - Knowledge - INFO - knowledge worker kw9 start
+2025-08-08 08:27:20,529 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-08-08 08:27:20,936 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx
+2025-08-08 08:27:21,062 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx
+2025-08-08 08:27:21,146 - Knowledge - INFO - worker kw8 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx from ingest queue
+2025-08-08 08:27:21,146 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx to ingest queue
+2025-08-08 08:27:21,322 - Knowledge - INFO - knowledge worker kw10 start
+2025-08-08 08:27:21,323 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-08-08 08:27:21,604 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx
+2025-08-08 08:27:21,695 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:21,695 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:21,697 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:21,697 - Knowledge - INFO - worker kw2 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx from ingest queue
+2025-08-08 08:27:21,697 - Knowledge - INFO - worker kw9 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx from ingest queue
+2025-08-08 08:27:21,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:21,698 - Knowledge - INFO - worker kw4 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts from ingest queue
+2025-08-08 08:27:21,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:21,769 - Knowledge - INFO - worker kw10 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts from ingest queue
+2025-08-08 08:27:21,881 - Knowledge - INFO - knowledge worker kw11 start
+2025-08-08 08:27:21,883 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-08-08 08:27:21,997 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:22,073 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:22,160 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:22,234 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:22,359 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx
+2025-08-08 08:27:22,465 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx
+2025-08-08 08:27:22,529 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:22,649 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts
+2025-08-08 08:27:22,741 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:22,857 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts
+2025-08-08 08:27:22,910 - Knowledge - INFO - worker kw11 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts from ingest queue
+2025-08-08 08:27:22,996 - Knowledge - INFO - knowledge worker kw12 start
+2025-08-08 08:27:22,998 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-08-08 08:27:23,076 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:23,174 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx
+2025-08-08 08:27:23,252 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx
+2025-08-08 08:27:23,349 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx
+2025-08-08 08:27:23,463 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:23,579 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:23,672 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx
+2025-08-08 08:27:23,756 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:23,831 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx
+2025-08-08 08:27:23,948 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:24,088 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts
+2025-08-08 08:27:24,145 - Knowledge - INFO - worker kw12 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css from ingest queue
+2025-08-08 08:27:24,250 - Knowledge - INFO - knowledge worker kw13 start
+2025-08-08 08:27:24,251 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-08-08 08:27:24,370 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx
+2025-08-08 08:27:24,493 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx to ingest queue
+2025-08-08 08:27:24,711 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:24,792 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:25,015 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:25,241 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:25,447 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css
+2025-08-08 08:27:25,632 - Knowledge - INFO - knowledge worker kw14 start
+2025-08-08 08:27:25,634 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-08-08 08:27:25,897 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx
+2025-08-08 08:27:26,018 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx
+2025-08-08 08:27:26,029 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:26,030 - Knowledge - INFO - worker kw13 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx from ingest queue
+2025-08-08 08:27:26,090 - Knowledge - INFO - worker kw6 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx from ingest queue
+2025-08-08 08:27:26,090 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx to ingest queue
+2025-08-08 08:27:26,133 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts
+2025-08-08 08:27:26,231 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts
+2025-08-08 08:27:26,527 - Knowledge - INFO - knowledge worker kw15 start
+2025-08-08 08:27:26,530 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-08-08 08:27:26,791 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:26,936 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx
+2025-08-08 08:27:27,016 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx
+2025-08-08 08:27:27,104 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx to ingest queue
+2025-08-08 08:27:27,527 - Knowledge - INFO - knowledge worker kw16 start
+2025-08-08 08:27:27,529 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-08-08 08:27:28,107 - Knowledge - INFO - knowledge worker kw17 start
+2025-08-08 08:27:27,939 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx to ingest queue
+2025-08-08 08:27:27,646 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts
+2025-08-08 08:27:28,109 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-08-08 08:27:28,282 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx to ingest queue
+2025-08-08 08:27:28,498 - Knowledge - INFO - knowledge worker kw18 start
+2025-08-08 08:27:28,500 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-08-08 08:27:28,586 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx to ingest queue
+2025-08-08 08:27:28,786 - Knowledge - INFO - knowledge worker kw19 start
+2025-08-08 08:27:28,787 - Knowledge - INFO - worker kw20 created with dedicated MongoDB connection (total: 20)
+2025-08-08 08:27:28,897 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:28,897 - Knowledge - INFO - worker kw14 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx from ingest queue
+2025-08-08 08:27:29,008 - Knowledge - INFO - worker kw1 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json from ingest queue
+2025-08-08 08:27:29,065 - Knowledge - INFO - worker kw15 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json from ingest queue
+2025-08-08 08:27:29,065 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:29,065 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:29,066 - Knowledge - INFO - worker kw3 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json from ingest queue
+2025-08-08 08:27:29,066 - Knowledge - INFO - worker kw16 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md from ingest queue
+2025-08-08 08:27:29,066 - Knowledge - INFO - worker kw7 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js from ingest queue
+2025-08-08 08:27:29,112 - Knowledge - INFO - worker kw18 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html from ingest queue
+2025-08-08 08:27:29,113 - Knowledge - INFO - worker kw8 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt from ingest queue
+2025-08-08 08:27:29,113 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx to ingest queue
+2025-08-08 08:27:29,124 - Knowledge - INFO - knowledge worker kw20 start
+2025-08-08 08:27:29,127 - Knowledge - WARNING - High connection count: 21 connections active
+2025-08-08 08:27:29,234 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:29,370 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx
+2025-08-08 08:27:29,454 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json
+2025-08-08 08:27:29,565 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json
+2025-08-08 08:27:29,640 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:29,752 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:29,870 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json
+2025-08-08 08:27:29,996 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md
+2025-08-08 08:27:30,113 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js
+2025-08-08 08:27:30,222 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html
+2025-08-08 08:27:30,299 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt
+2025-08-08 08:27:30,393 - Knowledge - INFO - worker kw19 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json from ingest queue
+2025-08-08 08:27:30,393 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts to ingest queue
+2025-08-08 08:27:30,515 - Knowledge - INFO - worker kw21 created with dedicated MongoDB connection (total: 21)
+2025-08-08 08:27:30,596 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css
+2025-08-08 08:27:31,019 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx
+2025-08-08 08:27:31,095 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx
+2025-08-08 08:27:31,677 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json
+2025-08-08 08:27:31,755 - Knowledge - INFO - worker kw17 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts from ingest queue
+2025-08-08 08:27:31,755 - Knowledge - INFO - worker kw5 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx from ingest queue
+2025-08-08 08:27:31,756 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts to ingest queue
+2025-08-08 08:27:31,860 - Knowledge - INFO - knowledge worker kw21 start
+2025-08-08 08:27:31,862 - Knowledge - WARNING - High connection count: 22 connections active
+2025-08-08 08:27:32,336 - Knowledge - INFO - Thread kw17 - File serviceWorker.ts - Remaining files in queue: 10
+2025-08-08 08:27:32,450 - Knowledge - INFO - Thread kw5 - File About.tsx - Remaining files in queue: 10
+2025-08-08 08:27:32,526 - Knowledge - INFO - worker kw2 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts from ingest queue
+2025-08-08 08:27:32,528 - Knowledge - INFO - worker kw20 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx from ingest queue
+2025-08-08 08:27:32,528 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:33,214 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:32,528 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:32,529 - Knowledge - INFO - worker kw11 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx from ingest queue
+2025-08-08 08:27:32,529 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:32,529 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:32,529 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:32,529 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx to ingest queue
+2025-08-08 08:27:32,703 - Knowledge - INFO - worker kw22 created with dedicated MongoDB connection (total: 22)
+2025-08-08 08:27:32,805 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts
+2025-08-08 08:27:32,908 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx
+2025-08-08 08:27:33,030 - Knowledge - INFO - Thread kw2 - File react-app-env.d.ts - Remaining files in queue: 8
+2025-08-08 08:27:33,109 - Knowledge - INFO - Thread kw20 - File Login.tsx - Remaining files in queue: 8
+2025-08-08 08:27:32,528 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:33,313 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx
+2025-08-08 08:27:33,391 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:33,512 - Knowledge - INFO - Thread kw11 - File AppFooter.tsx - Remaining files in queue: 8
+2025-08-08 08:27:33,629 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:33,756 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:35,065 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html
+2025-08-08 08:27:33,975 - Knowledge - INFO - worker kw4 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx from ingest queue
+2025-08-08 08:27:34,051 - Knowledge - INFO - knowledge worker kw22 start
+2025-08-08 08:27:34,055 - Knowledge - WARNING - High connection count: 23 connections active
+2025-08-08 08:27:34,080 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:34,081 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts to ingest queue
+2025-08-08 08:27:34,206 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx
+2025-08-08 08:27:34,285 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts
+2025-08-08 08:27:34,405 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx
+2025-08-08 08:27:34,525 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:34,738 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json
+2025-08-08 08:27:34,861 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx
+2025-08-08 08:27:34,941 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js
+2025-08-08 08:27:33,868 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:35,451 - Knowledge - INFO - Thread kw4 - File AppHeader.tsx - Remaining files in queue: 8
+2025-08-08 08:27:35,666 - Knowledge - INFO - worker kw23 created with dedicated MongoDB connection (total: 23)
+2025-08-08 08:27:35,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:35,858 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:35,859 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:35,859 - Knowledge - INFO - worker kw21 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx from ingest queue
+2025-08-08 08:27:35,919 - Knowledge - INFO - worker kw9 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx from ingest queue
+2025-08-08 08:27:35,920 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css to ingest queue
+2025-08-08 08:27:35,955 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx
+2025-08-08 08:27:36,062 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts
+2025-08-08 08:27:36,148 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx
+2025-08-08 08:27:36,234 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json
+2025-08-08 08:27:36,410 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx
+2025-08-08 08:27:36,576 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt
+2025-08-08 08:27:36,661 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx
+2025-08-08 08:27:36,766 - Knowledge - INFO - knowledge worker kw23 start
+2025-08-08 08:27:36,768 - Knowledge - WARNING - High connection count: 24 connections active
+2025-08-08 08:27:36,847 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json
+2025-08-08 08:27:36,947 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:37,041 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:37,129 - Knowledge - INFO - Thread kw21 - File App.tsx - Remaining files in queue: 7
+2025-08-08 08:27:37,255 - Knowledge - INFO - Thread kw9 - File Routes.tsx - Remaining files in queue: 7
+2025-08-08 08:27:37,432 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx
+2025-08-08 08:27:37,452 - Knowledge - INFO - worker kw22 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx from ingest queue
+2025-08-08 08:27:37,453 - Knowledge - INFO - worker kw10 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx from ingest queue
+2025-08-08 08:27:37,453 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx to ingest queue
+2025-08-08 08:27:37,537 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts
+2025-08-08 08:27:37,638 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx
+2025-08-08 08:27:37,871 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx
+2025-08-08 08:27:38,233 - Knowledge - INFO - worker kw24 created with dedicated MongoDB connection (total: 24)
+2025-08-08 08:27:38,401 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json
+2025-08-08 08:27:38,498 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md
+2025-08-08 08:27:38,593 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx
+2025-08-08 08:27:38,697 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx
+2025-08-08 08:27:38,937 - Knowledge - INFO - Thread kw22 - File Home.tsx - Remaining files in queue: 6
+2025-08-08 08:27:39,055 - Knowledge - INFO - Thread kw10 - File index.tsx - Remaining files in queue: 6
+2025-08-08 08:27:39,290 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts
+2025-08-08 08:27:39,307 - Knowledge - INFO - worker kw12 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx from ingest queue
+2025-08-08 08:27:39,307 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx to ingest queue
+2025-08-08 08:27:39,376 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx
+2025-08-08 08:27:39,497 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx
+2025-08-08 08:27:39,601 - Knowledge - INFO - knowledge worker kw24 start
+2025-08-08 08:27:39,603 - Knowledge - WARNING - High connection count: 25 connections active
+2025-08-08 08:27:40,087 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx
+2025-08-08 08:27:40,170 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx
+2025-08-08 08:27:40,364 - Knowledge - INFO - Thread kw12 - File AuthContext.tsx - Remaining files in queue: 6
+2025-08-08 08:27:41,340 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx
+2025-08-08 08:27:41,053 - Knowledge - INFO - worker kw25 created with dedicated MongoDB connection (total: 25)
+2025-08-08 08:27:41,173 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx
+2025-08-08 08:27:41,263 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx
+2025-08-08 08:27:40,551 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx to ingest queue
+2025-08-08 08:27:41,553 - Knowledge - INFO - knowledge worker kw25 start
+2025-08-08 08:27:41,695 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx
+2025-08-08 08:27:41,819 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx
+2025-08-08 08:27:42,026 - Knowledge - INFO - worker kw23 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts from ingest queue
+2025-08-08 08:27:42,087 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx
+2025-08-08 08:27:42,089 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:42,089 - Knowledge - INFO - worker kw6 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts from ingest queue
+2025-08-08 08:27:42,089 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json to ingest queue
+2025-08-08 08:27:42,217 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx
+2025-08-08 08:27:42,317 - Knowledge - INFO - Thread kw23 - File index.ts - Remaining files in queue: 6
+2025-08-08 08:27:42,544 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:42,667 - Knowledge - INFO - Thread kw6 - File index.ts - Remaining files in queue: 6
+2025-08-08 08:27:42,795 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts
+2025-08-08 08:27:42,795 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js to ingest queue
+2025-08-08 08:27:42,951 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx
+2025-08-08 08:27:43,054 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts
+2025-08-08 08:27:43,143 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/About.tsx
+2025-08-08 08:27:43,245 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts
+2025-08-08 08:27:43,376 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts
+2025-08-08 08:27:43,563 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx
+2025-08-08 08:27:43,605 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:43,605 - Knowledge - INFO - worker kw14 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx from ingest queue
+2025-08-08 08:27:43,606 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:43,606 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:43,606 - Knowledge - INFO - worker kw13 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts from ingest queue
+2025-08-08 08:27:43,606 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json to ingest queue
+2025-08-08 08:27:43,679 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts
+2025-08-08 08:27:44,118 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:44,249 - Knowledge - INFO - Thread kw14 - File AppContext.tsx - Remaining files in queue: 6
+2025-08-08 08:27:44,335 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:44,425 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:44,550 - Knowledge - INFO - Thread kw13 - File asyncReducer.ts - Remaining files in queue: 6
+2025-08-08 08:27:44,650 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt to ingest queue
+2025-08-08 08:27:44,752 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts
+2025-08-08 08:27:44,841 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/react-app-env.d.ts
+2025-08-08 08:27:44,957 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx
+2025-08-08 08:27:45,054 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Auth/Login.tsx
+2025-08-08 08:27:45,177 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppFooter.tsx
+2025-08-08 08:27:45,272 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts
+2025-08-08 08:27:45,445 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json to ingest queue
+2025-08-08 08:27:45,614 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts
+2025-08-08 08:27:45,845 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx
+2025-08-08 08:27:46,297 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html to ingest queue
+2025-08-08 08:27:46,485 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx
+2025-08-08 08:27:46,514 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx
+2025-08-08 08:27:46,637 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:46,677 - Knowledge - INFO - worker kw15 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css from ingest queue
+2025-08-08 08:27:47,056 - Knowledge - INFO - Thread kw15 - File tailwind.css - Remaining files in queue: 8
+2025-08-08 08:27:46,680 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json to ingest queue
+2025-08-08 08:27:46,719 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx
+2025-08-08 08:27:46,757 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx
+2025-08-08 08:27:46,887 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx
+2025-08-08 08:27:46,973 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:46,679 - Knowledge - INFO - worker kw7 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx from ingest queue
+2025-08-08 08:27:47,151 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css
+2025-08-08 08:27:47,265 - Knowledge - INFO - worker kw25 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx from ingest queue
+2025-08-08 08:27:47,265 - Knowledge - INFO - adding /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md to ingest queue
+2025-08-08 08:27:47,414 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx
+2025-08-08 08:27:47,628 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx
+2025-08-08 08:27:47,677 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts
+2025-08-08 08:27:47,749 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Home.tsx
+2025-08-08 08:27:47,870 - Knowledge - INFO - Thread kw7 - File AppFooter.test.tsx - Remaining files in queue: 8
+2025-08-08 08:27:47,989 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css
+2025-08-08 08:27:48,090 - Knowledge - INFO - Thread kw25 - File AuthContext.test.tsx - Remaining files in queue: 8
+2025-08-08 08:27:48,270 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:48,270 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:48,270 - Knowledge - INFO - worker kw1 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx from ingest queue
+2025-08-08 08:27:49,180 - Knowledge - INFO - Thread kw1 - File AppHeader.test.tsx - Remaining files in queue: 0
+2025-08-08 08:27:48,421 - Knowledge - INFO - worker kw19 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json from ingest queue
+2025-08-08 08:27:48,421 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:48,421 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:49,575 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:48,422 - Knowledge - INFO - worker kw3 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json from ingest queue
+2025-08-08 08:27:48,422 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:48,422 - Knowledge - INFO - worker kw16 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt from ingest queue
+2025-08-08 08:27:48,422 - Knowledge - INFO - worker kw5 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json from ingest queue
+2025-08-08 08:27:48,496 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:48,496 - Knowledge - INFO - worker kw2 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html from ingest queue
+2025-08-08 08:27:48,497 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:48,497 - Knowledge - INFO - worker kw8 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json from ingest queue
+2025-08-08 08:27:48,497 - Knowledge - INFO - worker kw20 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md from ingest queue
+2025-08-08 08:27:48,506 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts
+2025-08-08 08:27:48,689 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx
+2025-08-08 08:27:48,769 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css
+2025-08-08 08:27:48,873 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx
+2025-08-08 08:27:48,956 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:49,052 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:48,420 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx
+2025-08-08 08:27:49,278 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx
+2025-08-08 08:27:49,356 - Knowledge - INFO - Thread kw19 - File tslint.json - Remaining files in queue: 0
+2025-08-08 08:27:49,473 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:48,422 - Knowledge - INFO - worker kw24 pull /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js from ingest queue
+2025-08-08 08:27:49,669 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/index.tsx
+2025-08-08 08:27:49,760 - Knowledge - INFO - Thread kw3 - File package.json - Remaining files in queue: 0
+2025-08-08 08:27:49,853 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:49,958 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts
+2025-08-08 08:27:49,970 - Knowledge - INFO - Thread kw16 - File robots.txt - Remaining files in queue: 0
+2025-08-08 08:27:50,081 - Knowledge - INFO - Thread kw5 - File manifest.json - Remaining files in queue: 0
+2025-08-08 08:27:50,163 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:50,278 - Knowledge - INFO - Thread kw2 - File index.html - Remaining files in queue: 0
+2025-08-08 08:27:50,364 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:50,504 - Knowledge - INFO - Thread kw8 - File tsconfig.json - Remaining files in queue: 0
+2025-08-08 08:27:50,590 - Knowledge - INFO - Thread kw20 - File README.md - Remaining files in queue: 0
+2025-08-08 08:27:50,670 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:52,959 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:50,841 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css
+2025-08-08 08:27:51,094 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/serviceWorker.ts
+2025-08-08 08:27:51,172 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/AppHeader.tsx
+2025-08-08 08:27:51,294 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:51,512 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json
+2025-08-08 08:27:51,595 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/types/index.ts
+2025-08-08 08:27:51,715 - Knowledge - INFO - Thread kw24 - File tailwind.config.js - Remaining files in queue: 0
+2025-08-08 08:27:51,894 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json
+2025-08-08 08:27:52,021 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AppContext.tsx
+2025-08-08 08:27:52,166 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts
+2025-08-08 08:27:52,265 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt
+2025-08-08 08:27:52,348 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json
+2025-08-08 08:27:52,424 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/context/AuthContext.tsx
+2025-08-08 08:27:52,536 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html
+2025-08-08 08:27:52,624 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/App.tsx
+2025-08-08 08:27:52,748 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json
+2025-08-08 08:27:52,846 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md
+2025-08-08 08:27:50,763 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx
+2025-08-08 08:27:53,093 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/mocks/index.ts
+2025-08-08 08:27:53,219 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:53,506 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:53,585 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json
+2025-08-08 08:27:53,747 - Knowledge - INFO - start ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js
+2025-08-08 08:27:53,850 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json
+2025-08-08 08:27:53,882 - Knowledge - INFO - persist search terms embedding for src/serviceWorker.ts
+2025-08-08 08:27:54,170 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt
+2025-08-08 08:27:54,288 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json
+2025-08-08 08:27:54,715 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json
+2025-08-08 08:27:54,854 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md
+2025-08-08 08:27:54,944 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx
+2025-08-08 08:27:55,114 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:55,233 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/components/Routes.tsx
+2025-08-08 08:27:55,323 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json
+2025-08-08 08:27:55,406 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js
+2025-08-08 08:27:56,506 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js
+2025-08-08 08:27:55,717 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:27:55,722 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt
+2025-08-08 08:27:55,823 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json
+2025-08-08 08:27:55,905 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json
+2025-08-08 08:27:55,987 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md
+2025-08-08 08:27:56,116 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx
+2025-08-08 08:27:56,160 - Knowledge - INFO - persist search terms embedding for src/context/AuthContext.tsx
+2025-08-08 08:27:56,190 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/tailwind.css
+2025-08-08 08:27:56,367 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json
+2025-08-08 08:27:55,489 - Knowledge - INFO - done fast ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json
+2025-08-08 08:27:56,544 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html
+2025-08-08 08:27:56,627 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js
+2025-08-08 08:27:56,687 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:27:56,772 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt
+2025-08-08 08:27:56,878 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json
+2025-08-08 08:27:56,974 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json
+2025-08-08 08:27:57,058 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx
+2025-08-08 08:27:57,060 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md
+2025-08-08 08:27:57,259 - Knowledge - INFO - done ingest for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx
+2025-08-08 08:27:57,563 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json
+2025-08-08 08:27:57,639 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html
+2025-08-08 08:27:57,654 - Knowledge - INFO - persist search terms embedding for src/App.tsx
+2025-08-08 08:27:57,793 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/reducers/asyncReducer.ts
+2025-08-08 08:27:58,225 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx
+2025-08-08 08:27:58,469 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx
+2025-08-08 08:27:59,184 - Knowledge - INFO - persist search terms embedding for src/mocks/index.ts
+2025-08-08 08:27:59,924 - Knowledge - INFO - persist search terms embedding for src/components/Routes.tsx
+2025-08-08 08:28:00,040 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:00,131 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:00,132 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:00,132 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:00,132 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:00,132 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:00,171 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:00,265 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:00,345 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:00,474 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:00,558 - Knowledge - INFO - persist search terms embedding for src/components/AppHeader.tsx
+2025-08-08 08:28:00,592 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:01,308 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/index.html
+2025-08-08 08:28:00,806 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppFooter.test.tsx
+2025-08-08 08:28:00,921 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tailwind.config.js
+2025-08-08 08:28:01,003 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tsconfig.json
+2025-08-08 08:28:01,105 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/package.json
+2025-08-08 08:28:01,195 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:00,680 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:01,517 - Knowledge - INFO - persist search terms embedding for src/reducers/asyncReducer.ts
+2025-08-08 08:28:01,982 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:02,058 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/components/AppHeader.test.tsx
+2025-08-08 08:28:02,236 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/src/__tests__/context/AuthContext.test.tsx
+2025-08-08 08:28:02,477 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:02,478 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:02,555 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:02,641 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:02,725 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/tslint.json
+2025-08-08 08:28:02,801 - Knowledge - INFO - persist search terms embedding for src/__tests__/context/AuthContext.test.tsx
+2025-08-08 08:28:02,822 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/robots.txt
+2025-08-08 08:28:03,015 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:03,213 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:03,309 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/README.md
+2025-08-08 08:28:03,722 - Knowledge - INFO - persist search terms embedding for src/__tests__/components/AppHeader.test.tsx
+2025-08-08 08:28:03,884 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/react-note-app-151806.git:kavia-master
+2025-08-08 08:28:04,012 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f5acf796910>
+2025-08-08 08:28:04,142 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/151806/b1369mi/react-note-app-151806/public/manifest.json
+2025-08-08 08:28:04,331 - Knowledge - INFO - Knowledge creation complete
+2025-08-08 08:28:04,412 - Knowledge - INFO - Updating org costs, total cost: 0.0024746
+2025-08-08 08:28:04,884 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-08 08:28:04,984 - Knowledge - INFO - Knowledge saved to Redis successfully
